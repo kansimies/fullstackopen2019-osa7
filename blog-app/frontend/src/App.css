@@ -1,0 +1,19 @@
+.blog {
+  border: 1px solid black;
+  padding: 8px;
+  margin-bottom: 5px;
+}
+
+.error {
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.success {
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: lightgray;
+}
